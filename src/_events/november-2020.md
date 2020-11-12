@@ -12,6 +12,10 @@ start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300
 address: '8 Henderson Valley Rd, Henderson, Auckland'
 people:
+test_images:
+  - image:
+    src:
+    alt:
 flikr_galleries:
   -
 major_partners:
